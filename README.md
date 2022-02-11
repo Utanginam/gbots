@@ -64,7 +64,7 @@ You can edit owner and other in `'./settings/config.json'`
 
 ```ts
 {
-	"ownername":"ZeeoneOfc",
+	"ownername":"GLENN",
 	"ownernumber":"62887435047326",
 	"botname":"Haruka-Bot",
 	"thumbnail":"./settings/haruka.jpg",
